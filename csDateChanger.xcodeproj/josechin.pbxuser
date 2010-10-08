@@ -1,0 +1,347 @@
+// !$*UTF8*$!
+{
+	089C165DFE840E0CC02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 426}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 45}";
+			sepNavWindowFrame = "{{15, 495}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = C6F27809125BFE4300E25B57 /* DateChanger */;
+		activeTarget = 8D1107260486CEB800E47090 /* DateChanger */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* DateChanger */,
+		);
+		breakpoints = (
+			C62C56B6125D56C9006F0B64 /* DateController.h:5 */,
+		);
+		codeSenseManager = C6F27819125BFE4C00E25B57 /* Code sense */;
+		executables = (
+			C6F27809125BFE4300E25B57 /* DateChanger */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					497,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					457,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 308254105;
+			PBXWorkspaceStateSaveDate = 308254105;
+		};
+		perUserProjectItems = {
+			C62C5707125E5F6D006F0B64 /* PBXTextBookmark */ = C62C5707125E5F6D006F0B64 /* PBXTextBookmark */;
+			C62C570C125E5F6D006F0B64 /* PBXTextBookmark */ = C62C570C125E5F6D006F0B64 /* PBXTextBookmark */;
+			C6C74AAB125EA607004D9FEF /* PBXTextBookmark */ = C6C74AAB125EA607004D9FEF /* PBXTextBookmark */;
+			C6C74ACD125EAA8D004D9FEF /* PlistBookmark */ = C6C74ACD125EAA8D004D9FEF /* PlistBookmark */;
+			C6C74ACE125EAA8D004D9FEF /* PBXTextBookmark */ = C6C74ACE125EAA8D004D9FEF /* PBXTextBookmark */;
+			C6F0E7C1125F94AE00E2F4F1 /* PBXBookmark */ = C6F0E7C1125F94AE00E2F4F1 /* PBXBookmark */;
+			C6F0E7C3125F94AE00E2F4F1 /* PlistBookmark */ = C6F0E7C3125F94AE00E2F4F1 /* PlistBookmark */;
+			C6F0E7C4125F94AE00E2F4F1 /* PBXTextBookmark */ = C6F0E7C4125F94AE00E2F4F1 /* PBXTextBookmark */;
+			C6F0E7C5125F94AE00E2F4F1 /* PBXTextBookmark */ = C6F0E7C5125F94AE00E2F4F1 /* PBXTextBookmark */;
+			C6F0E7C6125F94AE00E2F4F1 /* PBXTextBookmark */ = C6F0E7C6125F94AE00E2F4F1 /* PBXTextBookmark */;
+			C6F0E7C9125F94AE00E2F4F1 /* PBXBookmark */ = C6F0E7C9125F94AE00E2F4F1 /* PBXBookmark */;
+			C6F0E7E5125F952800E2F4F1 /* PBXTextBookmark */ = C6F0E7E5125F952800E2F4F1 /* PBXTextBookmark */;
+			C6F0E7FE125F976200E2F4F1 /* PBXTextBookmark */ = C6F0E7FE125F976200E2F4F1 /* PBXTextBookmark */;
+			C6F27828125C053E00E25B57 /* PBXTextBookmark */ = C6F27828125C053E00E25B57 /* PBXTextBookmark */;
+			C6F27829125C053E00E25B57 /* PBXTextBookmark */ = C6F27829125C053E00E25B57 /* PBXTextBookmark */;
+		};
+		sourceControlManager = C6F27818125BFE4C00E25B57 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 426}}";
+			sepNavSelRange = "{177, 0}";
+			sepNavVisRange = "{0, 248}";
+		};
+	};
+	8D1107260486CEB800E47090 /* DateChanger */ = {
+		activeExec = 0;
+		executables = (
+			C6F27809125BFE4300E25B57 /* DateChanger */,
+		);
+	};
+	C62C56B6125D56C9006F0B64 /* DateController.h:5 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = C6F2781D125C01EC00E25B57 /* DateController.h */;
+		functionName = "";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 5;
+		modificationTime = 308254112.371234;
+		state = 0;
+	};
+	C62C5707125E5F6D006F0B64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C62C5708125E5F6D006F0B64 /* NSString.h */;
+		name = "NSString.h: 84";
+		rLen = 71;
+		rLoc = 3887;
+		rType = 0;
+		vrLen = 1138;
+		vrLoc = 3087;
+	};
+	C62C5708125E5F6D006F0B64 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	C62C570C125E5F6D006F0B64 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C62C570D125E5F6D006F0B64 /* NSString.h */;
+		name = "NSString.h: 149";
+		rLen = 0;
+		rLoc = 7550;
+		rType = 0;
+		vrLen = 1938;
+		vrLoc = 4272;
+	};
+	C62C570D125E5F6D006F0B64 /* NSString.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSString.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Versions/C/Headers/NSString.h;
+		sourceTree = "<absolute>";
+	};
+	C6C74AAB125EA607004D9FEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	C6C74ACD125EAA8D004D9FEF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/josechin/Documents/DateChanger/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C6C74ACE125EAA8D004D9FEF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	C6F0E7C1125F94AE00E2F4F1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C6F0E7C2125F94AE00E2F4F1 /* csDateChanger.icns */;
+	};
+	C6F0E7C2125F94AE00E2F4F1 /* csDateChanger.icns */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.icns;
+		name = csDateChanger.icns;
+		path = /Users/josechin/Documents/DateChanger/csDateChanger.icns;
+		sourceTree = "<absolute>";
+	};
+	C6F0E7C3125F94AE00E2F4F1 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleDisplayName,
+		);
+		name = /Users/josechin/Documents/DateChanger/Info.plist;
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	C6F0E7C4125F94AE00E2F4F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 089C165DFE840E0CC02AAC07 /* English */;
+		name = "InfoPlist.strings: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 45;
+		vrLoc = 0;
+	};
+	C6F0E7C5125F94AE00E2F4F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 11";
+		rLen = 0;
+		rLoc = 177;
+		rType = 0;
+		vrLen = 248;
+		vrLoc = 0;
+	};
+	C6F0E7C6125F94AE00E2F4F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6F2781D125C01EC00E25B57 /* DateController.h */;
+		name = "DateController.h: 8";
+		rLen = 0;
+		rLoc = 173;
+		rType = 0;
+		vrLen = 178;
+		vrLoc = 0;
+	};
+	C6F0E7C9125F94AE00E2F4F1 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = C6F0E7CA125F94AE00E2F4F1 /* csDateChanger.icns */;
+	};
+	C6F0E7CA125F94AE00E2F4F1 /* csDateChanger.icns */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = image.icns;
+		name = csDateChanger.icns;
+		path = /Users/josechin/Documents/DateChanger/csDateChanger.icns;
+		sourceTree = "<absolute>";
+	};
+	C6F0E7E5125F952800E2F4F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6F2781E125C01EC00E25B57 /* DateController.m */;
+		name = "DateController.m: 35";
+		rLen = 0;
+		rLoc = 1400;
+		rType = 0;
+		vrLen = 1057;
+		vrLoc = 492;
+	};
+	C6F0E7FE125F976200E2F4F1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6F2781E125C01EC00E25B57 /* DateController.m */;
+		name = "DateController.m: 35";
+		rLen = 0;
+		rLoc = 1400;
+		rType = 0;
+		vrLen = 1109;
+		vrLoc = 440;
+	};
+	C6F27809125BFE4300E25B57 /* DateChanger */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DateChanger;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	C6F27818125BFE4C00E25B57 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	C6F27819125BFE4C00E25B57 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	C6F2781D125C01EC00E25B57 /* DateController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 426}}";
+			sepNavSelRange = "{173, 0}";
+			sepNavVisRange = "{0, 178}";
+			sepNavWindowFrame = "{{15, 495}, {750, 558}}";
+		};
+	};
+	C6F2781E125C01EC00E25B57 /* DateController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {675, 588}}";
+			sepNavSelRange = "{1400, 0}";
+			sepNavVisRange = "{440, 1109}";
+			sepNavWindowFrame = "{{38, 474}, {750, 558}}";
+		};
+	};
+	C6F27828125C053E00E25B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6F2781E125C01EC00E25B57 /* DateController.m */;
+		name = "DateController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 103;
+		vrLoc = 0;
+	};
+	C6F27829125C053E00E25B57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C6F2781D125C01EC00E25B57 /* DateController.h */;
+		name = "DateController.h: 8";
+		rLen = 0;
+		rLoc = 178;
+		rType = 0;
+		vrLen = 138;
+		vrLoc = 0;
+	};
+}
